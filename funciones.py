@@ -1,6 +1,6 @@
 
 def suma(n1, n2):
-  sum= n1+n2
+  sum= n1+n2https://github.com/leydayet/funciones-
   return sum
 print('ejemplo1')
 print(str(suma(34, 2)))
